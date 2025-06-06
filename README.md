@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eyiowuawi Timileyin
 ===========================================================================================================================================
 
-Frontend Engineer | React · Next.js · UI/UX
+Frontend Engineer | React · Next.js 
 -------------------------------------------
 
 A results-driven Software Engineer with a strong background in frontend development, UI/UX design, and scalable system architecture. Passionate about crafting high-performance, user-centric digital products, I specialize in React, Next.js, TypeScript, Tailwind CSS, and Framer, ensuring seamless and responsive interfaces. With expertise in Figma, Photoshop, and Illustrator, I bridge the gap between design and development, creating functional aesthetics that enhance user experience. I also have experience working with APIs, state management, and backend integrations to build robust, scalable applications. I am committed to staying ahead of tech trends and leveraging AI-driven solutions to enhance product functionality. Let’s connect and build the future together!
