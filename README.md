@@ -1,14 +1,13 @@
 <h1 align="left" style="font-size:4rem;">👋 Hi, I'm Eyiowuawi Timileyin</h1>
 
-<h3 align="left"><strong>Fullstack Software Engineer — Specializing in Backend Systems & AI Agent Engineering</strong></h3>
+<h3 align="left"><strong>Specializing in Backend Systems & AI Agent Engineering</strong></h3>
 
 ---
 
 
-
 ## 👨‍💻 About Me
 
-I'm a **Fullstack Developer** — with a strong frontend foundation and deep specialization in **Backend Engineering** and **AI Agent Development**.
+I'm specializating in **Backend Engineering** and **AI Agent Development**.
 
 I build:
 
@@ -28,7 +27,6 @@ I believe in clean architecture, test-driven development, and AI-native engineer
 ### 🔧 Core Technologies
 - **Languages:** TypeScript, JavaScript, PHP, Go, Solidity  
 - **Backend:** Node.js (NestJS, Express), Golang (Gin/Echo), Laravel  
-- **Frontend:** React, Next.js, Tailwind CSS, Framer Motion  
 - **Databases:** PostgreSQL, MongoDB, Redis  
 - **DevOps:** Docker, GitHub Actions, CI/CD pipelines, Swagger
 
