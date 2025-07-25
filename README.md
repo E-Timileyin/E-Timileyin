@@ -1,26 +1,65 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eyiowuawi Timileyin
-===========================================================================================================================================
+<h1 align="left" style="font-size:4rem;">👋 Hi, I'm Eyiowuawi Timileyin</h1>
 
-Frontend Engineer | React · Next.js 
--------------------------------------------
+<h3 align="left"><strong>Fullstack Software Engineer — Specializing in Backend Systems & AI Agent Engineering</strong></h3>
 
-A results-driven Software Engineer with a strong background in frontend development, UI/UX design, and scalable system architecture. Passionate about crafting high-performance, user-centric digital products, I specialize in React, Next.js, TypeScript, Tailwind CSS, and Framer, ensuring seamless and responsive interfaces. With expertise in Figma, Photoshop, and Illustrator, I bridge the gap between design and development, creating functional aesthetics that enhance user experience. I also have experience working with APIs, state management, and backend integrations to build robust, scalable applications. I am committed to staying ahead of tech trends and leveraging AI-driven solutions to enhance product functionality. Let’s connect and build the future together!
-
-* 🌍  I'm based in Lagos Nigeria.
-* 🖥️  See my portfolio at [www.linkedin.com/in/eyiowuawi-timileyin](http://www.linkedin.com/in/eyiowuawi-timileyin)
-* ✉️  You can contact me at [eyiowuawi.timileyin@gmail.com](mailto:eyiowuawi.timileyin@gmail.com)
-* 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on Projects
-* ⚡  With great power comes great responsibility.
-
-### Skills
-
-
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /</a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"></a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux"></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a>
-</p>
+---
 
 
 
-### Socials
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://www.github.com/E-Timileyin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/o.l.u.w.a_t.i.m.i.l.e.y.i.n" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/eyiowuawi-timileyin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+I'm a **Fullstack Developer** — with a strong frontend foundation and deep specialization in **Backend Engineering** and **AI Agent Development**.
+
+I build:
+
+- ⚙️ Scalable APIs, microservices, and developer tooling
+- 🧠 Intelligent agents using LangChain, OpenAI, and Hugging Face
+- 🔐 Secure systems with JWT, OAuth2, Redis, and PostgreSQL
+- 🛠️ Production-ready backend infrastructures across Node.js, Golang, and PHP
+
+Currently, I'm focused on **integrating AI agents directly into backend systems** to enable intelligent service orchestration. I'm also **exploring agentic AI patterns** — from tool-based autonomy to long-term memory and multi-step reasoning.
+
+I believe in clean architecture, test-driven development, and AI-native engineering.
+
+---
+
+## 🧰 Tech Stack
+
+### 🔧 Core Technologies
+- **Languages:** TypeScript, JavaScript, PHP, Go, Solidity  
+- **Backend:** Node.js (NestJS, Express), Golang (Gin/Echo), Laravel  
+- **Frontend:** React, Next.js, Tailwind CSS, Framer Motion  
+- **Databases:** PostgreSQL, MongoDB, Redis  
+- **DevOps:** Docker, GitHub Actions, CI/CD pipelines, Swagger
+
+### 🧠 AI & Agent Engineering [ Learning ]
+- LangChain · OpenAI · Hugging Face Transformers  
+- RAG Pipelines · Vector Stores (Pinecone, Weaviate)  
+- Custom Toolchains & LLM Agent Workflows  
+- CLI & Web-based AI Assistants
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to building:
+- Developer tooling
+- AI-powered assistants
+- Scalable backend services
+- Open source projects
+
+Reach out if you're building something impactful.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [eyiowuawi.timileyin@gmail.com](mailto:eyiowuawi.timileyin@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/eyiowuawi-timileyin](https://www.linkedin.com/in/eyiowuawi-timileyin)  
+- 💻 GitHub: [github.com/E-Timileyin](https://github.com/E-Timileyin)  
+- 📸 Instagram: [@o.l.u.w.a_t.i.m.i.l.e.y.i.n](http://instagram.com/o.l.u.w.a_t.i.m.i.l.e.y.i.n)
+
+---
+
+> _"Build systems that work — not just code that runs."_
+
