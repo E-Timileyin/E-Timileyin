@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm specializating in **Backend Engineering** and **AI Agent Development**.
+I specialize in **Backend Engineering** and **AI Agent Development**.
 
 I build:
 
@@ -25,7 +25,7 @@ I believe in clean architecture, test-driven development, and AI-native engineer
 ## 🧰 Tech Stack
 
 ### 🔧 Core Technologies
-- **Languages:** TypeScript, JavaScript, PHP, Go, Solidity  
+- **Languages:** TypeScript, JavaScript, PHP, Go  
 - **Backend:** Node.js (NestJS, Express), Golang (Gin/Echo), Laravel  
 - **Databases:** PostgreSQL, MongoDB, Redis  
 - **DevOps:** Docker, GitHub Actions, CI/CD pipelines, Swagger
