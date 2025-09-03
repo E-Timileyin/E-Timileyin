@@ -1,6 +1,8 @@
 # 👋 Eyiowuawi Timileyin
 
-**Software Engineer** — Backend Systems & AI Agent Development  
+**Fullstack Developer** — Specializing in Backend Systems & AI Agent Development  
+
+I build scalable APIs, automate workflows, and design intelligent, production-ready systems.  
 
 ---
 
