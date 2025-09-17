@@ -15,8 +15,8 @@ I build scalable APIs, automate workflows, and design intelligent, production-re
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** TypeScript, Go, PHP  
-- **Frameworks:** NestJS, Laravel, Gin 
+- **Languages:** TypeScript, Go, Node.js
+- **Frameworks:** NestJS, Express, Gin 
 - **AI/ML:** LangChain, Hugging Face, OpenAI APIs  
 - **Other:** Docker, PostgreSQL, MongoDB, Supabase, Redis  
 
