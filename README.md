@@ -1,6 +1,6 @@
 # 👋 Eyiowuawi Timileyin
 
-**SOFTWARE ENGINEER** — Specializing in Backend Systems & AI Agent Development  
+**SOFTWARE ENGINEER** —  Fullstack Developer & AI Agent Development  
 
 I build scalable APIs, automate workflows, and design intelligent, production-ready systems.  
 
@@ -15,8 +15,8 @@ I build scalable APIs, automate workflows, and design intelligent, production-re
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** TypeScript, Go, Node.js
-- **Frameworks:** NestJS, Express, Gin 
+- **Languages:** TypeScript, Go, Node.js,Next.js, React.js
+- **Frameworks:** Express, Gin 
 - **AI/ML:** LangChain, Hugging Face, OpenAI APIs  
 - **Other:** Docker, PostgreSQL, MongoDB, Supabase, Redis  
 
