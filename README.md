@@ -24,7 +24,7 @@ A portfolio and professional-record site for a client, built as one TypeScript a
 
 A website and content admin for Knurb, a brand design studio: GSAP-driven motion and case-study pages, plus an admin panel to add, edit and delete projects, project details and site content. **Why it matters:** the studio sells visual craft, so its own site has to prove it, and originally every new case study meant a code change and a deploy. Now the team publishes on its own.
 
-**[Sail](https://github.com/E-Timileyin/sail)** · Personal project · Go, Cobra, Viper, Docker, SSH
+**[Sail](https://github.com/E-Timileyin/Sail-CLI)** · Personal project · Go, Cobra, Viper, Docker, SSH
 
 A CLI that deploys Dockerized apps to remote servers over SSH, with rollbacks and per-environment config (dev, staging, production). **Why it matters:** it turns a manual, error-prone server deploy into one repeatable command, with a way back when a release goes wrong.
 
