@@ -16,7 +16,7 @@ A gamified learning platform for learners with special educational needs and dis
 
 A direct-booking platform for Favoured Properties Ltd, a short-stay rental operator in Manchester and Bolton: guest site, booking flow and an admin dashboard on a Hono API. **Why it matters:** guests book direct instead of through marketplaces, so the operator avoids their fees. The channel manager sits behind a port/adapter layer, so Smoobu can be swapped for Beds24 without touching booking logic.
 
-**[Favoured Homes](https://www.mbitaownu.com/)** · Freelance, fullstack · React 19, Vite, Hono, Payload CMS, PostgreSQL, Docker, ci/cd, nginx, worker
+**[mbitaownu](https://www.mbitaownu.com/)** · Freelance, fullstack · React 19, Vite, Hono, Payload CMS, PostgreSQL, Docker, ci/cd, nginx, worker
 
 A portfolio and professional-record site for a client, built as one TypeScript app: a React SPA and Hono API in a single Docker image, Payload CMS on Neon Postgres and a custom admin console. **Why it matters:** a portfolio is normally static, but this client needed to edit every word themselves, including their career record and publications, without a developer. Public forms are Zod-validated, reader replies are moderated, unpublished posts are excluded in the query so they can't leak, and deploys go through an approval-gated pipeline that health-checks the service.
 
